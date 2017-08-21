@@ -34,7 +34,7 @@ paginate = 10
 		facebook = ""
 		googleplus = ""
 		flickr = ""
-		linkedin = "ebenryanmallory"
+		linkedin = "https://www.linkedin.com/in/eben-mallory-17250017/"
 
 		copyright = [
 			"Made with ♥ in Colorado"

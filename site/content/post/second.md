@@ -1,5 +1,6 @@
 ---
 title: Second Post
-date: 2017-08-20T13:00:00-06:00
+date: 2017-08-20T19:00:00.000Z
 ---
 Cool stuff coming soon!
+

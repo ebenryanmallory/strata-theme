@@ -1791,7 +1791,7 @@
 		input[type="email"]:focus,
 		select:focus,
 		textarea:focus {
-			border-color: #49bf9d;
+			border-color: #888;
 		}
 
 	.select-wrapper {
@@ -2349,8 +2349,8 @@
 		input[type="reset"]:hover,
 		input[type="button"]:hover,
 		.button:hover {
-			border-color: #49bf9d;
-			color: #49bf9d !important;
+			border-color: #888;
+			color: #888 !important;
 		}
 
 		input[type="submit"]:active,
@@ -2358,8 +2358,8 @@
 		input[type="button"]:active,
 		.button:active {
 			background-color: rgba(73, 191, 157, 0.1);
-			border-color: #49bf9d;
-			color: #49bf9d !important;
+			border-color: #888;
+			color: #888 !important;
 		}
 
 		input[type="submit"].icon,
@@ -2404,8 +2404,8 @@
 		input[type="reset"].special,
 		input[type="button"].special,
 		.button.special {
-			background-color: #49bf9d;
-			border-color: #49bf9d;
+			background-color: #888;
+			border-color: #888;
 			color: #ffffff !important;
 		}
 
@@ -2462,7 +2462,6 @@
 /* Header */
 
 	#header {
-		background-color: #1f1815;
 		background-attachment: scroll,								fixed;
 		background-image: url("images/paper.jpg");
 		background-position: top left,							top left;
@@ -2496,6 +2495,22 @@
 		#header .image.avatar {
 			margin: 0 0 1em 0;
 			width: 6.25em;
+		}
+		.logo {
+			background-image: url("images/logo.png");
+			background-repeat: no-repeat;
+			min-height: 30px;
+			max-height: 40px;
+			background-size: contain;
+			background-position: right center;
+			width: 100%;
+			margin-bottom: 20px;
+			margin-top: 15px;
+		}
+		@media screen  and (max-width: 979px) /* Tablet */ {
+			.logo {
+				background-position: center center;
+			}
 		}
 
 /* Footer */

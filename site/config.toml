@@ -37,9 +37,7 @@ paginate = 10
 		linkedin = "ebenryanmallory"
 
 		copyright = [
-			"Made with ♥ in Colorado",
-			"",
-			""
+			"Made with ♥ in Colorado"
 		]
 
 
@@ -56,44 +54,32 @@ paginate = 10
 		# The images and thumbnails are stored under static/images
 		# Create and change subfolders as you like
 		[[params.portfolio.gallery]]
-			image = "fulls/01.jpg"
-			thumb = "thumbs/01.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
+			image = "fulls/cat.jpg"
+			thumb = "thumbs/cat-thumb.jpg"
+			title = "Iams Ad School student project"
+			description = "Healthy diet = healthy fur."
 
 		[[params.portfolio.gallery]]
-			image = "fulls/02.jpg"
-			thumb = "thumbs/02.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
+			image = "fulls/1.jpg"
+			thumb = "thumbs/mcdonalds-thumb.jpg"
+			title = "McDonald's Ad School project"
+			description = "International D&AD student award winner"
 
 		[[params.portfolio.gallery]]
-			image = "fulls/03.jpg"
-			thumb = "thumbs/03.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
+			image = "fulls/nami-bottle.jpg"
+			thumb = "thumbs/nami-bottle-thumb.jpg"
+			title = "Nami in a bottle"
+			description = "3D render inspired by (and stolen from) the popular video game League of Legends."
 
 		[[params.portfolio.gallery]]
-			image = "fulls/04.jpg"
-			thumb = "thumbs/04.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
-
-		[[params.portfolio.gallery]]
-			image = "fulls/05.jpg"
-			thumb = "thumbs/05.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
-
-		[[params.portfolio.gallery]]
-			image = "fulls/06.jpg"
-			thumb = "thumbs/06.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
+			image = "fulls/bard.jpg"
+			thumb = "thumbs/bard-thumbnail.jpg"
+			title = "Bard"
+			description = "3D render of the character Bard from League of Legends."
 
 	[params.recentposts]
 		hide  = false
-		title = "Recent blog posts"
+		title = "Latest rants on code and frameworks"
 
 	[params.contact]
 		hide  = false

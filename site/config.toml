@@ -2,17 +2,17 @@ baseurl = "/"
 languageCode = "en-us"
 title = "Eben Mallory portfolio"
 theme = "hugo-strata-theme"
-disqusShortname = "spf13"
+disqusShortname = ""
 # Enable Google Analytics by inserting your tracking code
-googleAnalytics = ""
+googleAnalytics = "UA-104998295-1"
 # Define how many posts should appear on a site
 paginate = 10
 
 [params]
 	# To provide some metadata for search engines feel free to add a few
     # information about you and your website.
-	name = "Your name"
-	description = "Describe your website"
+	name = "Eben Mallory"
+	description = "Promotional portfolio website"
 
 	# Format dates with Go's time formatting
 	date_format = "2006-01-02"
@@ -24,20 +24,20 @@ paginate = 10
 
 	[params.sidebar]
 		# Replace the avatar with a picture of your own under static/images
-		avatar = "avatar.jpg"
+		avatar = "portrait.jpg"
 		# Use Markdown to format the string. This works nearly all over the theme
 		bio = "Hello! and welcome to my portfolio"
 		# The icons will be shown if you enter your username
-		twitter = "spf13"
-		github = "spf13"
+		twitter = ""
+		github = "ebenryanmallory"
 		dribbble = ""
 		facebook = ""
 		googleplus = ""
 		flickr = ""
-		linkedin = ""
+		linkedin = "ebenryanmallory"
 
 		copyright = [
-			"",
+			"Made with ♥ in Colorado",
 			"",
 			""
 		]
@@ -45,13 +45,13 @@ paginate = 10
 
 	[params.about]
 		hide  = false
-		title = "Ipsum lorem dolor aliquam ante commodo magna sed accumsan arcu neque."
-		content = "Accumsan orci faucibus id eu lorem semper. Eu ac iaculis ac nunc nisi lorem vulputate lorem neque cubilia ac in adipiscing in curae lobortis tortor primis integer massa adipiscing id nisi accumsan pellentesque commodo blandit enim arcu non at amet id arcu magna. Accumsan orci faucibus id eu lorem semper nunc nisi lorem vulputate lorem neque cubilia."
+		title = "Front end and animation design portfolio"
+		content = "Side projects, personality and interest pieces, and all around weirdness"
 
 
 	[params.portfolio]
 		hide  = false
-		title = "Recent Work"
+		title = "Select Work"
 
 		# The images and thumbnails are stored under static/images
 		# Create and change subfolders as you like
@@ -97,15 +97,14 @@ paginate = 10
 
 	[params.contact]
 		hide  = false
-		title = "Get In Touch"
-		content = "Accumsan pellentesque commodo blandit enim arcu non at amet id arcu magna. Accumsan orci faucibus id eu lorem semper nunc nisi lorem vulputate lorem neque lorem ipsum dolor."
+		title = "REACH OUT"
+		content = "Business inquiries are more than welcome"
 
 		address = [
-			"1234 Somewhere Rd.",
-			"Nashville, TN 00000",
-			"United States"
+			"931 N 19th St",
+			"Colorado Springs, CO 80904"
 		]
-		phone = "000-000-0000"
+		phone = "(970) 300-1125"
 
 		# Since this template is static, the contact form uses www.formspree.io as a
 		# proxy. The form makes a POST request to their servers to send the actual
@@ -118,7 +117,7 @@ paginate = 10
 	    # - send a dummy email yourself to confirm your account
 	    # - click the confirm link in the email from www.formspree.io
 	    # - you're done. Happy mailing!
-		email = "hello@example.com"
+		email = "ebenryanmallory@gmail.com"
 
 		[params.contact.form]
 			# Set custom strings for the form if your native

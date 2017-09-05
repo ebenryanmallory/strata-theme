@@ -12,7 +12,7 @@ To view this video please enable JavaScript, and consider upgrading to a web bro
 <a href="http://videojs.com/html5-video-support "target="_blank">supports HTML5 video</a></p>
 </video>
 
-<iframe src="https://player.vimeo.com/video/88961436" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://vimeo.com/100372490" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 <iframe src="https://player.vimeo.com/video/80639419" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 

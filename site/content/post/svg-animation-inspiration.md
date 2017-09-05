@@ -16,4 +16,8 @@ I’m always a sucker for a reveal, and write on is a classic:
 
 Don’t be afraid to hit rerun if you  missed it!
 
+And then there are some that do add overhead to the page, but they are so awesome that you just don’t care:
+
+<p data-height="500" data-theme-id="0" data-slug-hash="LjvgYR" data-default-tab="js,result" data-user="ebenryanmallory" data-embed-version="2" data-pen-title="THREE Image Transition" class="codepen">See the Pen <a href="https://codepen.io/ebenryanmallory/pen/LjvgYR/">THREE Image Transition</a> by Eben Mallory (<a href="https://codepen.io/ebenryanmallory">@ebenryanmallory</a>) on <a href="https://codepen.io">CodePen</a>.</p>
+
 <script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script>

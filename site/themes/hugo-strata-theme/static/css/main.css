@@ -1,4 +1,5 @@
 @import url("font-awesome.min.css");
+@import url("proximanova.css");
 @import url("//fonts.googleapis.com/css?family=Source+Sans+Pro:400,400italic");
 
 /*
@@ -1567,7 +1568,7 @@
 
 	body, input, select, textarea {
 		color: #a2a2a2;
-		font-family: "Source Sans Pro", Helvetica, sans-serif;
+		font-family: "proxima_novalight","Source Sans Pro", Helvetica, sans-serif;
 		font-size: 16pt;
 		font-weight: 400;
 		line-height: 1.75em;

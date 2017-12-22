@@ -8,5 +8,3 @@ Hi everyone, and welcome to my rantings. I hope you enjoy, or more likely want t
 ![bootstrap logo]({{site.baseurl}}/site/content/post/Bootstrap.png)
 ![javascript logo]({{site.baseurl}}/site/content/post/javascript.jpg)
 ![HTML5 logo]({{site.baseurl}}/site/content/post/HTML5.png)
-
-

@@ -129,3 +129,8 @@ paginate = 10
 	name = "Blog"
 	url  = "post/"
 	weight = 10
+    
+[[menu.main]]
+	name = "Hire Me"
+	url  = "/hire-me/"
+	weight = 15

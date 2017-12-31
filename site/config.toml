@@ -55,27 +55,44 @@ paginate = 10
 		# Create and change subfolders as you like
 		[[params.portfolio.gallery]]
 			image = "fulls/cat.jpg"
+			image2 = "fulls/dog.jpg"
 			thumb = "thumbs/cat-thumb.jpg"
 			title = "Iams Ad School student project"
 			description = "Healthy diet = healthy fur."
+			id = "IAMS"
+			modalid = "1"
 
 		[[params.portfolio.gallery]]
 			image = "fulls/1.jpg"
+			image2 = "fulls/2.jpg"	
+			image3 = "fulls/3.jpg"
+			image4 = "fulls/4.jpg"	
+			image5 = "fulls/5.jpg"
+			image6 = "fulls/6.jpg"					
 			thumb = "thumbs/mcdonalds-thumb.jpg"
 			title = "McDonald's Ad School project"
 			description = "International D&AD student award winner"
+			id = "MCD"
+			modalid = "2"
 
 		[[params.portfolio.gallery]]
+
 			image = "fulls/nami-bottle.jpg"
+			image2 = "fulls/nami-bottle.jpg"
 			thumb = "thumbs/nami-bottle-thumb.jpg"
 			title = "Nami in a bottle"
 			description = "3D render inspired by (and stolen from) the popular video game League of Legends."
+			id = "Nami"
+			modalid = "3"
 
 		[[params.portfolio.gallery]]
 			image = "fulls/bard.jpg"
+			image2 = "fulls/bard.jpg"
 			thumb = "thumbs/bard-thumbnail.jpg"
 			title = "Bard"
 			description = "3D render of the character Bard from League of Legends."
+			id = "Bard"
+			modalid = "4"
 
 	[params.recentposts]
 		hide  = false
